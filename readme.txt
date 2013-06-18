@@ -64,6 +64,7 @@ The resources folder contains background images and sprites.
 The Kinect folder stores all the kinect related files. The compiled MEX files and the generated functions to make use of the Kinect sensor.
 
 
+If you have any issues, shoot me an email hayyaan@gmail.com
 
 � Kinect Matlab API from the internet.
 � Hayyaan Ahmad
