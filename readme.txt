@@ -1,6 +1,8 @@
 MATLAB Project:		Kinect Fruit Ninja
 By:			Hayyaan Ahmad
-Roll Number:		2015-10-0006
+
+Video demonstration:
+http://www.youtube.com/watch?v=hp7VQ7djSYU
 
 Summary:
 This game is an impletention of the popular game Fruit Ninja available for mobile devices. The unique aspect being its ability to use the Microsoft Kinect device as its input. In essence, you are playing Fruit Ninja, with your hands as controllers. [Adaption of Fruit Ninja for Kinect]
@@ -12,7 +14,7 @@ Usage:
 Start the program by running RunMe.m. You will be required to choose your mode of play.
 
 DEPENDANCIES:
-Microsoft Kinect SDK
+Microsoft Kinect SDK (Optional)
 Microsoft C++ Express
 Microsoft SDK
 Microsoft .NET Framework
@@ -63,5 +65,5 @@ The Kinect folder stores all the kinect related files. The compiled MEX files an
 
 
 
-© Kinect Matlab API from the internet.
-© Hayyaan Ahmad
+ï¿½ Kinect Matlab API from the internet.
+ï¿½ Hayyaan Ahmad
